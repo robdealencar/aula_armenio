@@ -6,8 +6,3 @@ sequenceDiagram
   Alice->>John: How are you?
   John->>Alice: Fine, thanks
 ```
-```
-  Anna->>John: Are you gay?
-  John->>Anna: Yesss!
-  Alice->>: Oh my gooodness!
-```
